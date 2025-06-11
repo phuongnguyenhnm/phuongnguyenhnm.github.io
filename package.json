@@ -4,8 +4,7 @@
   "private": false,
   "author": "Phuong Nguyen <paul@rocketegg.systems>",
   "license": "MIT",
-  "homepage": "https://phuongnguyenhnm.github.io
-",
+  "homepage": "https://phuongnguyenhnm.github.io",
   "scripts": {
     "dev": "vite --host",
     "sass": "sass --watch sass/main.scss:css/main.css",
