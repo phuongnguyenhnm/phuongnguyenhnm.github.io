@@ -1,10 +1,11 @@
 {
-  "name": "portfolio",
+  "name": "Window XP",
   "version": "1.0.0",
   "private": false,
-  "author": "Paul Jaguin <paul@rocketegg.systems>",
+  "author": "Phuong Nguyen <paul@rocketegg.systems>",
   "license": "MIT",
-  "homepage": "https://pauljaguin.com",
+  "homepage": "https://phuongnguyenhnm.github.io
+",
   "scripts": {
     "dev": "vite --host",
     "sass": "sass --watch sass/main.scss:css/main.css",
